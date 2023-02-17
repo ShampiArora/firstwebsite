@@ -1,0 +1,224 @@
+body {
+
+    margin: 0;
+   
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+
+h1 {
+
+    position: relative;
+    margin-left: 10px;
+    font-family: 'Sacramento', cursive;
+}
+h2 {
+    position: relative;
+    margin-left: 120px;
+    margin-top: 0px;
+    font-family: 'Merriweather Sans', sans-serif;
+    
+}
+hr
+{
+    background-color: #93BFCF; 
+    height: 5px;
+    margin: -5px;
+border-width: 0px;
+overflow: hidden;
+
+
+}
+.hr1
+{
+    background-color: #93BFCF; 
+    height: 5px;
+    margin: 0px;
+
+border-width: 0px;
+position: relative;
+top: 40px;
+}
+
+.top-contner {
+
+    background-color: #C0EEF2;
+   
+    padding-top: 10px;
+    height: 180px;
+
+}
+.top-image {
+    position: fixed;
+    width: 10%;
+    right: 10px;
+    top: 1%;
+}
+
+.middle-contner {
+    background-color: #C0EEF2;
+
+
+    height: 506px;
+
+}
+.column {
+    float: left;
+    width: 32.75%;
+    text-align: center;
+
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .v1 {
+
+    border-right: 6px solid #93BFCF;
+    height: 507px;
+    
+  }
+  .v2 {
+    border-left: 6px solid #93BFCF;
+    border-right: 6px solid #93BFCF;
+    height: 507px;
+    
+  }
+.bottom-contner {
+    background-color: #93BFCF;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    position: relative;
+    bottom: 20px;
+    height: 50px;
+    top: 0px;
+   
+
+}
+
+.mywork {
+
+    position: absolute;
+    margin: auto;
+    font-family: 'Pacifico', cursive;
+    font-size: 2em;
+    left: 44%;
+    top: 125px;
+
+    }
+
+    .logotext
+    {
+        position: absolute;
+        margin: auto;
+        font-family: 'Pacifico', cursive;
+        font-size: 1.4em;
+        left: 180px;
+        top: 185px;
+        
+        
+    }
+    .websitetext
+    {
+        position: absolute;
+        margin: auto;
+        font-family: 'Pacifico', cursive;
+        font-size: 1.4em;
+        left: 720px;
+        top: 187px;
+        
+        
+    }
+    .Brochertext
+    {
+        position: absolute;
+        margin: auto;
+        font-family: 'Pacifico', cursive;
+        font-size: 1.4em;
+        right: 225px;
+        top: 187px;
+        
+        
+    }
+
+.ContactMe {
+  position: fixed;
+
+  bottom: 0;
+  width: 100%;
+  background-color: #93BFCF;
+  left: 0px;
+ 
+}
+.p2
+{
+    position: relative;
+    margin-right: 10px;
+    
+    
+}
+
+.p1
+{
+    position: relative;
+    text-align: right;
+    margin-right: 10px;
+    text
+    
+}
+.logo
+{
+    padding: 5px;
+    width: 95%;
+    height: 400px
+;
+    overflow: hidden;
+    top: 25px;
+}
+.logo img
+{
+    padding: 10px;
+    margin-top: 10px;
+    width: 100%;
+    height:auto;
+
+}
+.Brocher
+{
+    padding: 5px;
+    width: 95%;
+    height: 400px;
+
+    overflow: hidden;
+    top: 25px;
+}
+.Brocher img
+{
+    padding: 10px;
+    width: 100%;
+    height:auto;
+    margin-top: 10px;
+   
+}
+
+
+.website
+{
+
+    margin-top: 25px;
+
+
+}
+
+
+.website img
+{
+    margin-top: 25px;
+    width: 10%;
+    height:auto;
+    
+
+}
